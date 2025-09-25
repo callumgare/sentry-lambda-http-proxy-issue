@@ -1,4 +1,4 @@
-A sentry issue reproduction test case.
+A reproduction test case for https://github.com/getsentry/sentry-javascript/issues/17774.
 
 To deploy first install dependencies with `npm install` then run:
 
